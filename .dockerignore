@@ -1,0 +1,2 @@
+# ignore directories with specific names
+node_modules/
